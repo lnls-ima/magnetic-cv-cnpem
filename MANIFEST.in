@@ -1,0 +1,3 @@
+include VERSION
+recursive-include winder *.ui
+graft winder/resources/img
